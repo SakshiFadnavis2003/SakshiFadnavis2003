@@ -2,7 +2,7 @@
 
 I am an aspiring Data Scientist with a strong passion for machine learning, deep learning, and data analytics. My goal is to leverage data-driven insights to create impactful solutions and drive innovation. Welcome to my GitHub profile!
 
-![Profile Banner](https://www.canva.com/design/DAGJtcCgrlA/u38dfDIc7RNCjxRQC614fQ/view?utm_content=DAGJtcCgrlA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Profile Banner]([https://www.canva.com/design/DAGJtcCgrlA/u38dfDIc7RNCjxRQC614fQ/view?utm_content=DAGJtcCgrlA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://github.com/SakshiFadnavis2003/SakshiFadnavis2003/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png))
 
 ## 🚀 About Me
 
