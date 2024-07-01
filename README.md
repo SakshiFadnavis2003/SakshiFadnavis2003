@@ -55,7 +55,6 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-fadnavis-3023a9240/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sakshi_fadnavis)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadnavissakshi@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/fadnavis_sakshi/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/fadnavissakshi)
@@ -85,6 +84,10 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 
 ![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshiFadnavis2003&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 ![Sakshi's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=SakshiFadnavis2003&theme=radical)
+
+---
+
+Thank you for visiting my profile! I am always open to discussing new opportunities and collaborations. Feel free to explore my repositories and connect with me. 😊
 
 ---
 
