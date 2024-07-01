@@ -83,11 +83,13 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 |---|---|---|
 | <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"> |
 
+
 ### Tools:
 
-| VS Code | Anaconda |
-|---|---|
-| <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" width="48" height="48"> |
+| VS Code | Anaconda | Tableau | IntelliJ |
+|---|---|---|---|
+| <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="48" height="48"> |
+
 
 
 
