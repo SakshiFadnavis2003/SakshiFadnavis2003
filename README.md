@@ -64,7 +64,6 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 ### LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/fadnavis_sakshi?theme=dark&font=Montserrat&ext=contest)
-![LeetCode Questions Solved](https://img.shields.io/badge/LeetCode%20Questions%20Solved-**[LeetCode Qs Solved]**-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 
 ## 🏆 Achievements
 
