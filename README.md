@@ -1,7 +1,3 @@
-I’ve updated your GitHub profile README with the correct banner image. Here’s the revised version:
-
----
-
 # Hi there, I'm Sakshi Fadnavis! 👋
 
 I am an aspiring Data Scientist with a strong passion for machine learning, deep learning, and data analytics. My goal is to leverage data-driven insights to create impactful solutions and drive innovation. Welcome to my GitHub profile!
