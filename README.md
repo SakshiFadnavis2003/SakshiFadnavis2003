@@ -2,7 +2,7 @@
 
 I am an aspiring Data Scientist with a strong passion for machine learning, deep learning, and data analytics. My goal is to leverage data-driven insights to create impactful solutions and drive innovation. Welcome to my GitHub profile!
 
-![Profile Banner](https://github.com/SakshiFadnavis2003/SakshiFadnavis2003/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![Profile Banner](https://github.com/SakshiFadnavis2003/SakshiFadnavis2003/blob/main/Black%20Minimal%20Motif%20Quote%20LinkedIn%20Banner.png)
 
 ## 🚀 About Me
 
@@ -60,6 +60,7 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 
 ![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshiFadnavis2003&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 ![Sakshi's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=SakshiFadnavis2003&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiFadnavis2003&layout=compact&theme=dark)
 
 ### LeetCode Stats
 
@@ -88,4 +89,3 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 ---
 
 Thank you for visiting my profile! I am always open to discussing new opportunities and collaborations. Feel free to explore my repositories and connect with me. 😊
-
