@@ -64,7 +64,7 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiFadnavis2003&layout=compact&theme=dark)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SakshiFadnavis2003&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SakshiFadnavis2003&theme=react-dark)
 
 
 ### LeetCode Stats
