@@ -97,7 +97,8 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 
 | Data Science | Machine Learning | Deep Learning | NLP | AI |
 |---|---|---|---|---|
-| ![Data Science Logo](https://upload.wikimedia.org/wikipedia/commons/e/ef/Data_Science_Icon.png) | ![Machine Learning Logo](https://upload.wikimedia.org/wikipedia/commons/2/20/Machine_Learning.png) | ![Deep Learning Logo](https://upload.wikimedia.org/wikipedia/commons/4/4d/Deep_learning_icon.png) | ![NLP Logo](https://upload.wikimedia.org/wikipedia/commons/8/80/NLP_Icon.png) | ![AI Logo](https://img.icons8.com/color/48/000000/artificial-intelligence.png) |
+| ![Data Science Logo](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-data-science-computer-science-flaticons-flat-flat-icons.png) | ![Machine Learning Logo](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-machine-learning-artificial-intelligence-flaticons-flat-flat-icons.png) | ![Deep Learning Logo](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-artificial-intelligence-artificial-intelligence-flaticons-flat-flat-icons.png) | ![NLP Logo](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-nlp-machine-learning-flaticons-flat-flat-icons.png) | ![AI Logo](https://img.icons8.com/color/48/000000/artificial-intelligence.png) |
+
 
 
 
