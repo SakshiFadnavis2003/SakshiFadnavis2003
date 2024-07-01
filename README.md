@@ -73,42 +73,29 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 - **Research Paper**: Presented "Plant Fettle Detector" at INOCON 2024, selected for publication in a Scopus-indexed journal, and published in IEEE Xplore ([Link](https://ieeexplore.ieee.org/abstract/document/10512262/)).
 - **Hackathon**: Participated in the Eureka Challenge 2.0, developing innovative solutions for mobile screen projection and control.
 
-## 🧰 Technical Skills
-
-### Languages:
-
 | Python | SQL | Java |
 |---|---|---|
-| ![Python Logo](https://img.icons8.com/color/48/000000/python.png) | ![SQL Logo](https://img.icons8.com/color/48/000000/sql.png) | ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) |
+| <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/sql.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48"> |
 
 ### Frameworks:
 
 | TensorFlow | Keras | Scikit-Learn |
 |---|---|---|
-| ![TensorFlow Logo](https://img.icons8.com/color/48/000000/tensorflow.png) | ![Keras Logo](https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg) | ![Scikit-Learn Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) |
+| <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"> |
 
 ### Tools:
 
 | VS Code | Anaconda |
 |---|---|
-| ![VS Code Logo](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) | ![Anaconda Logo](https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png) |
-
-### Domains:
-
-| Data Science | Machine Learning | Deep Learning | NLP | AI |
-|---|---|---|---|---|
-| ![Data Science Logo](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-data-science-computer-science-flaticons-flat-flat-icons.png) | ![Machine Learning Logo](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-machine-learning-artificial-intelligence-flaticons-flat-flat-icons.png) | ![Deep Learning Logo](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-artificial-intelligence-artificial-intelligence-flaticons-flat-flat-icons.png) | ![NLP Logo](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-nlp-machine-learning-flaticons-flat-flat-icons.png) | ![AI Logo](https://img.icons8.com/color/48/000000/artificial-intelligence.png) |
-
+| <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" width="48" height="48"> |
 
 
 
 ## 🧰 Technical Skills
 
-- **Programming Languages**: Python, SQL, Java
 - **Machine Learning**: Scikit-Learn, TensorFlow, Keras
 - **Data Visualization**: Matplotlib, Seaborn
 - **Databases**: MySQL, PostgreSQL
-- **Development Tools**: Git, Docker, VS Code
 
 ## 💬 Soft Skills
 
