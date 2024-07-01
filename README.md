@@ -16,7 +16,7 @@ An intelligent system for detecting plant diseases and assessing fruit quality.
 - **Tech Stack**: CNN, TensorFlow, Keras
 - **Highlights**: Presented at INOCON 2024, published in IEEE Xplore ([Link](https://ieeexplore.ieee.org/abstract/document/10512262/))
 
-### [📍 TrackMate]([https://github.com/SakshiFadnavis2003/TrackMate](https://github.com/SakshiFadnavis2003/TrackMate-Advanced-Mobile-Application-for-Real-Time-Luggage-Tracking))
+### [📍 TrackMate](https://github.com/SakshiFadnavis2003/TrackMate-Advanced-Mobile-Application-for-Real-Time-Luggage-Tracking)
 A real-time location tracking application enhancing security measures.
 
 - **Tech Stack**: Android, Google Maps API, Firebase
@@ -54,6 +54,18 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/fadnavissakshi)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sakshitusharfadnavis)
 
+## 📊 GitHub & LeetCode Stats
+
+### GitHub Stats
+
+![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshiFadnavis2003&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Sakshi's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=SakshiFadnavis2003&theme=radical)
+
+### LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/fadnavis_sakshi?theme=dark&font=Montserrat&ext=contest)
+![LeetCode Questions Solved](https://img.shields.io/badge/LeetCode%20Questions%20Solved-**[LeetCode Qs Solved]**-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+
 ## 🏆 Achievements
 
 - **Research Paper**: Presented "Plant Fettle Detector" at INOCON 2024, selected for publication in a Scopus-indexed journal, and published in IEEE Xplore ([Link](https://ieeexplore.ieee.org/abstract/document/10512262/)).
@@ -73,11 +85,6 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 - **Team Collaboration**: Experienced in working collaboratively within teams to achieve project goals.
 - **Time Management**: Skilled in managing time efficiently to meet deadlines.
 - **Adaptability**: Quick to adapt to new environments and technologies.
-
-## 📊 GitHub Stats
-
-![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshiFadnavis2003&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-![Sakshi's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=SakshiFadnavis2003&theme=radical)
 
 ---
 
