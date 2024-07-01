@@ -16,7 +16,7 @@ An intelligent system for detecting plant diseases and assessing fruit quality.
 - **Tech Stack**: CNN, TensorFlow, Keras
 - **Highlights**: Presented at INOCON 2024, published in IEEE Xplore ([Link](https://ieeexplore.ieee.org/abstract/document/10512262/))
 
-### [📍 TrackMate](https://github.com/SakshiFadnavis2003/TrackMate)
+### [📍 TrackMate]([https://github.com/SakshiFadnavis2003/TrackMate](https://github.com/SakshiFadnavis2003/TrackMate-Advanced-Mobile-Application-for-Real-Time-Luggage-Tracking))
 A real-time location tracking application enhancing security measures.
 
 - **Tech Stack**: Android, Google Maps API, Firebase
