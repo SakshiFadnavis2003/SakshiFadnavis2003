@@ -89,6 +89,3 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 
 Thank you for visiting my profile! I am always open to discussing new opportunities and collaborations. Feel free to explore my repositories and connect with me. 😊
 
----
-
-Thank you for visiting my profile! I am always open to discussing new opportunities and collaborations. Feel free to explore my repositories and connect with me. 😊
