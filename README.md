@@ -75,6 +75,33 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 
 ## 🧰 Technical Skills
 
+### Languages:
+
+| Python | SQL | Java |
+|---|---|---|
+| ![Python Logo](https://img.icons8.com/color/48/000000/python.png) | ![SQL Logo](https://img.icons8.com/color/48/000000/sql.png) | ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) |
+
+### Frameworks:
+
+| TensorFlow | Keras | Scikit-Learn |
+|---|---|---|
+| ![TensorFlow Logo](https://img.icons8.com/color/48/000000/tensorflow.png) | ![Keras Logo](https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg) | ![Scikit-Learn Logo](https://img.icons8.com/color/48/000000/scikit-learn.png) |
+
+### Tools:
+
+| VS Code | Anaconda |
+|---|---|
+| ![VS Code Logo](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) | ![Anaconda Logo](https://img.icons8.com/color/48/000000/anaconda.png) |
+
+### Domains:
+
+| Data Science | Machine Learning | Deep Learning | NLP | AI |
+|---|---|---|---|---|
+| ![Data Science Logo](https://img.icons8.com/color/48/000000/data-science.png) | ![Machine Learning Logo](https://img.icons8.com/color/48/000000/machine-learning.png) | ![Deep Learning Logo](https://img.icons8.com/color/48/000000/neural-network.png) | ![NLP Logo](https://img.icons8.com/color/48/000000/natural-language.png) | ![AI Logo](https://img.icons8.com/color/48/000000/artificial-intelligence.png) |
+
+
+## 🧰 Technical Skills
+
 - **Programming Languages**: Python, SQL, Java
 - **Machine Learning**: Scikit-Learn, TensorFlow, Keras
 - **Data Visualization**: Matplotlib, Seaborn
