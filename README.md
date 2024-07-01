@@ -10,12 +10,6 @@ I am currently pursuing a degree in Data Science from Shri Ramdeobaba College of
 
 ## 🌟 Featured Projects
 
-### [🎬 Movie Recommendation System](https://github.com/SakshiFadnavis2003/Movie-Recommendation-System)
-A personalized movie recommendation system built using the MovieLens dataset.
-
-- **Tech Stack**: Python, AI, Collaborative Filtering
-- **Highlights**: Provides user-based and item-based recommendations, enhancing user experience.
-
 ### [🌱 Plant Fettle Detector](https://github.com/SakshiFadnavis2003/Plant-Fettle-Detector)
 An intelligent system for detecting plant diseases and assessing fruit quality.
 
@@ -49,7 +43,7 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 
 - **Languages**: Python, SQL, Java
 - **Frameworks**: TensorFlow, Keras, Scikit-Learn
-- **Tools**: Git, Docker, VS Code
+- **Tools**: VS Code, Anaconda
 - **Domains**: Data Science, Machine Learning, Deep Learning, NLP, AI
 
 ## 📫 Get in Touch
