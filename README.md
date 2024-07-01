@@ -85,19 +85,20 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 
 | TensorFlow | Keras | Scikit-Learn |
 |---|---|---|
-| ![TensorFlow Logo](https://img.icons8.com/color/48/000000/tensorflow.png) | ![Keras Logo](https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg) | ![Scikit-Learn Logo](https://img.icons8.com/color/48/000000/scikit-learn.png) |
+| ![TensorFlow Logo](https://img.icons8.com/color/48/000000/tensorflow.png) | ![Keras Logo](https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg) | ![Scikit-Learn Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) |
 
 ### Tools:
 
 | VS Code | Anaconda |
 |---|---|
-| ![VS Code Logo](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) | ![Anaconda Logo](https://img.icons8.com/color/48/000000/anaconda.png) |
+| ![VS Code Logo](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) | ![Anaconda Logo](https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png) |
 
 ### Domains:
 
 | Data Science | Machine Learning | Deep Learning | NLP | AI |
 |---|---|---|---|---|
-| ![Data Science Logo](https://img.icons8.com/color/48/000000/data-science.png) | ![Machine Learning Logo](https://img.icons8.com/color/48/000000/machine-learning.png) | ![Deep Learning Logo](https://img.icons8.com/color/48/000000/neural-network.png) | ![NLP Logo](https://img.icons8.com/color/48/000000/natural-language.png) | ![AI Logo](https://img.icons8.com/color/48/000000/artificial-intelligence.png) |
+| ![Data Science Logo](https://upload.wikimedia.org/wikipedia/commons/e/ef/Data_Science_Icon.png) | ![Machine Learning Logo](https://upload.wikimedia.org/wikipedia/commons/2/20/Machine_Learning.png) | ![Deep Learning Logo](https://upload.wikimedia.org/wikipedia/commons/4/4d/Deep_learning_icon.png) | ![NLP Logo](https://upload.wikimedia.org/wikipedia/commons/8/80/NLP_Icon.png) | ![AI Logo](https://img.icons8.com/color/48/000000/artificial-intelligence.png) |
+
 
 
 ## 🧰 Technical Skills
