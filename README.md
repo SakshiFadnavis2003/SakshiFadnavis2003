@@ -1,8 +1,12 @@
+I’ve updated your GitHub profile README with the correct banner image. Here’s the revised version:
+
+---
+
 # Hi there, I'm Sakshi Fadnavis! 👋
 
 I am an aspiring Data Scientist with a strong passion for machine learning, deep learning, and data analytics. My goal is to leverage data-driven insights to create impactful solutions and drive innovation. Welcome to my GitHub profile!
 
-![Profile Banner](https://github.com/SakshiFadnavis2003/SakshiFadnavis2003/blob/main/Black%20Minimal%20Motif%20Quote%20LinkedIn%20Banner.png)
+![Profile Banner](https://github.com/SakshiFadnavis2003/SakshiFadnavis2003/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
 ## 🚀 About Me
 
@@ -89,3 +93,4 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 ---
 
 Thank you for visiting my profile! I am always open to discussing new opportunities and collaborations. Feel free to explore my repositories and connect with me. 😊
+
