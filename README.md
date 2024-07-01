@@ -54,10 +54,9 @@ Recognizing handwritten digits from the MNIST dataset.
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [Sakshi Fadnavis](https://www.linkedin.com/in/sakshi-fadnavis-3023a9240/)
-- **Twitter**: [@sakshi_fadnavis](https://twitter.com/sakshi_fadnavis)
-- **Email**: [fadnavissakshi@gmail.com](mailto:fadnavissakshi@gmail.com)
-- **Location**: Nagpur
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-fadnavis-3023a9240/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sakshi_fadnavis)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadnavissakshi@gmail.com)
 
 ## 🏆 Achievements
 
