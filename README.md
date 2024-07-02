@@ -58,10 +58,7 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 
 ### GitHub Stats
 
-![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshiFadnavis2003&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
 ![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshiFadnavis2003&show_icons=true&count_private=true&theme=radical)
-
 
 ![Sakshi's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=SakshiFadnavis2003&theme=radical)
 
