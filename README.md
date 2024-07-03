@@ -73,9 +73,11 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 - **Research Paper**: Presented "Plant Fettle Detector" at INOCON 2024, selected for publication in a Scopus-indexed journal, and published in IEEE Xplore ([Link](https://ieeexplore.ieee.org/abstract/document/10512262/)).
 - **Hackathon**: Participated in the Eureka Challenge 2.0, developing innovative solutions for mobile screen projection and control.
 
-### GitHub Trophies
+## GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SakshiFadnavis2003)
+
+## Languages
 
 | Python | SQL | Java |
 |---|---|---|
