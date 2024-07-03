@@ -75,7 +75,7 @@ Building a neural network to recognize handwritten digits from the MNIST dataset
 
 ### GitHub Trophies
 
-![GitHub Trophies](https://github.com/SakshiFadnavis2003/SakshiFadnavis2003/blob/main/github_trophies.png)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SakshiFadnavis2003)
 
 | Python | SQL | Java |
 |---|---|---|
