@@ -23,15 +23,10 @@ A real-time location tracking application enhancing security measures.
 
 ## 🚀 Current Work
 
-### [📈 Predict Future Sales](https://github.com/SakshiFadnavis2003/Predict-Future-Sales)
-Developing a model to predict future sales based on historical sales data.
+### [🔍 Comprehensive Fraud Detection System](https://github.com/SakshiFadnavis2003/Comprehensive-Fraud-Detection-System)
+Creating a robust fraud detection system utilizing machine learning, deep learning, and anomaly detection techniques for real-time detection and high accuracy.
 
-- **Tech Stack**: Python, XGBoost, Pandas
-
-### [🔢 Digit Recognizer](https://github.com/SakshiFadnavis2003/Digit-Recognizer)
-Building a neural network to recognize handwritten digits from the MNIST dataset.
-
-- **Tech Stack**: Python, TensorFlow, Keras
+- **Tech Stack**: Python, Scikit-learn, TensorFlow, Keras, SQL, Flask/Django, Android Studio
 
 ## 🌱 Learning and Improving
 
