@@ -21,13 +21,6 @@ A real-time location tracking application enhancing security measures.
 
 - **Tech Stack**: Android, Google Maps API, Firebase
 
-## 🚀 Current Work
-
-### [🔍 Comprehensive Fraud Detection System](https://github.com/SakshiFadnavis2003/Comprehensive-Fraud-Detection-System)
-Creating a robust fraud detection system utilizing machine learning, deep learning, and anomaly detection techniques for real-time detection and high accuracy.
-
-- **Tech Stack**: Python, Scikit-learn, TensorFlow, Keras, SQL, Flask/Django, Android Studio
-
 ## 🌱 Learning and Improving
 
 - Continuously improving the accuracy and efficiency of my models.
