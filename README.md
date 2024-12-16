@@ -20,6 +20,11 @@ An intelligent system for detecting plant diseases and assessing fruit quality.
 A real-time location tracking application enhancing security measures.
 
 - **Tech Stack**: Android, Google Maps API, Firebase
+  
+### [🤖 InterviewXpert](https://github.com/SakshiFadnavis2003/InterviewXpert---Virtual-Interview-Platform)
+InterviewXpert is an AI-based virtual interview preparation platform designed to help users practice for job interviews with a focus on both verbal and non-verbal communication.
+
+- **Tech Stack**: Web Development, Generative AI, Natural Language Processing
 
 ## 🌱 Learning and Improving
 
