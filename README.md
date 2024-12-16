@@ -6,7 +6,7 @@ I am an aspiring Data Scientist with a strong passion for machine learning, deep
 
 ## 🚀 About Me
 
-I am currently pursuing a degree in Data Science from Shri Ramdeobaba College of Engineering and Management. My journey in data science has equipped me with a solid foundation in Python, SQL, and Java, along with hands-on experience in various projects. I am eager to apply my skills in machine learning, deep learning, and artificial intelligence to real-world challenges.
+I am currently pursuing a degree in Data Science from Shri Ramdeobaba College of Engineering and Management. My journey in data science has equipped me with a solid foundation in SQL and Java, along with hands-on experience in various projects. I am passionate about coding and eager to apply my skills in machine learning, deep learning, and artificial intelligence to solve real-world challenges.
 
 ## 🌟 Featured Projects
 
@@ -34,7 +34,7 @@ InterviewXpert is an AI-based virtual interview preparation platform designed to
 
 ## 🛠 Skills
 
-- **Languages**: Python, SQL, Java
+- **Languages**: SQL, Java
 - **Frameworks**: TensorFlow, Keras, Scikit-Learn
 - **Tools**: VS Code, Anaconda
 - **Domains**: Data Science, Machine Learning, Deep Learning, NLP, AI
@@ -65,6 +65,7 @@ InterviewXpert is an AI-based virtual interview preparation platform designed to
 
 - **Research Paper**: Presented "Plant Fettle Detector" at INOCON 2024, selected for publication in a Scopus-indexed journal, and published in IEEE Xplore ([Link](https://ieeexplore.ieee.org/abstract/document/10512262/)).
 - **Hackathon**: Participated in the Eureka Challenge 2.0, developing innovative solutions for mobile screen projection and control.
+- **Myntra Hackathon**: Participated and contributed to trend generation for Gen Z, focusing on AI-driven image uniqueness and popularity assessments ([Link](https://github.com/SakshiFadnavis2003/Myntra-HackerRamp-2024)).
 
 ## GitHub Trophies
 
@@ -89,11 +90,6 @@ InterviewXpert is an AI-based virtual interview preparation platform designed to
 |---|---|---|---|
 | <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="48" height="48"> |
 
-## 🧰 Technical Skills
-
-- **Machine Learning**: Scikit-Learn, TensorFlow, Keras
-- **Data Visualization**: Matplotlib, Seaborn
-- **Databases**: MySQL, PostgreSQL
 
 ## 💬 Soft Skills
 
